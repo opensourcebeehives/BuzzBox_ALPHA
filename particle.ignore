@@ -1,0 +1,4 @@
+# particle.ignore
+.ds_store
+audio3.cpp
+wake_adxl.cpp
